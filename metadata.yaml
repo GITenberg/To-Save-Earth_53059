@@ -1,5 +1,5 @@
 _repo: To-Save-Earth_53059
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Van Dongen, H. R.
@@ -7,7 +7,7 @@ contributor:
     - Dongen, van
     - Van Dongen, Henry Richard
     - Dongen, H. R. Van
-    birthdate: &id001 1920
+    birthdate: 1920
     deathdate: 2010
     gutenberg_agent_id: '26301'
     url: http://www.gutenberg.org/2009/agents/26301
@@ -18,15 +18,20 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 53059-h/images/cover.jpg
 creator:
   author:
     agent_name: Ludwig, Edward W.
     alias: Ludwig, Edward William
-    birthdate: *id001
+    birthdate: 1920
     deathdate: 1990
     gutenberg_agent_id: '35976'
     url: http://www.gutenberg.org/2009/agents/35976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53059#To-Save-Earth
 gutenberg_issued: '2016-09-16'
 gutenberg_type: Text
 identifiers:
