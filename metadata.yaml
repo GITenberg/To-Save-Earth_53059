@@ -1,0 +1,48 @@
+_repo: To-Save-Earth_53059
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Van Dongen, H. R.
+    aliases:
+    - Dongen, van
+    - Van Dongen, Henry Richard
+    - Dongen, H. R. Van
+    birthdate: &id001 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+  - agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Ludwig, Edward W.
+    alias: Ludwig, Edward William
+    birthdate: *id001
+    deathdate: 1990
+    gutenberg_agent_id: '35976'
+    url: http://www.gutenberg.org/2009/agents/35976
+description: ''
+gutenberg_issued: '2016-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extrasolar planets -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: To Save Earth
+url: http://www.gutenberg.org/ebooks/53059
